@@ -368,16 +368,16 @@ padding-left: 5px;}
 
 .m1 { text-align: left;
 text-decoration: none;
-font-family: cursive ;
-font-size: 17px;
+font-family: monospace ;
+font-size: 16px;
 color:black;
 padding-right: 40px;
 }
 
 .m2 { text-align: left;
 text-decoration: none;
-font-family: cursive;
-font-size: 17px;
+font-family: monospace;
+font-size: 16px;
 color:black ;
 padding-left: 40px;
 }
