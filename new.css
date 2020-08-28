@@ -375,22 +375,15 @@ color:black;
 padding-right: 40px;
 }
 
-.m2 { text-align: left;
-text-decoration: none;
-font-family: monospace;
-font-size: 15px;
-color:black ;
-padding-left: 40px;
-}
-
-.navi .topnav1 li a { font-family: monospace;
+.m2 { text-align: left;.navi .topnav1 li a { font-family: monospace;
 text-align: center;
-padding: 14px 16px;
+padding-left: 100px;
 color:#3BC755  ;
 font-size: 16px;
 text-decoration:none;
 display:inline-block;
-
+padding-top: 0px;
+padding-bottom: 20px;
 }
 
 .navi .topnav1 { background-color: #EBDEF0;
@@ -400,7 +393,7 @@ margin: 0px;
 opacity: .8;
 position: relative;
 display: block;
- 
+
 }
 
 .navi .topnav1 li { float:left;
@@ -409,14 +402,17 @@ text-align: center;
 line-height: 30px;
 }
 
-.navi { 
+.navi {
  border-top-style: solid;
-border-top-color: white;
+border-top-color:#D2B4DE;
 border-top-width: thin;
-border-spacing: 0px 40px;
- border-top-padding: 40px;
+
 }
 
-
-
+text-decoration: none;
+font-family: monospace;
+font-size: 15px;
+color:black ;
+padding-left: 40px;
+}
 
