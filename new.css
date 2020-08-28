@@ -412,8 +412,8 @@ line-height: 30px;
 .navi { 
  border-top-style: solid;
 border-top-color: black;
-border-top-width: 5px;
- padding-top:60px;
+border-top-width: 1px;
+ border-top-padding: 40px;
 }
 
 
