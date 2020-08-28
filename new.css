@@ -26,8 +26,7 @@ position: relative;
 display: block;
 }
 
-.navi { padding-top: 60px;
-}
+
 
 .topnav li { float:left;
 position: relative;
@@ -394,9 +393,8 @@ display:inline-block;
 
 }
 
-.topnav1{ background-color: #EBDEF0;
-list-style: none;
-overflow: hidden;
+.navi .topnav1 { background-color: #EBDEF0;
+list-style-type: none;
 padding: 0px;
 margin: 0px;
 opacity: .8;
@@ -405,20 +403,18 @@ display: block;
  
 }
 
-.topnav1 li { float:left;
+.navi .topnav1 li { float:left;
 position: relative;
 text-align: center;
 line-height: 30px;
 }
 
-
-.topnav1 { border-width: medium;
- border-style: solid;
-border:black 20px;
-border-radius: 8px;}
-
-.navi { border-width: medium;
- border-style: solid;
-border:black 20px;
-border-radius: 8px;
+.navi { 
+ border-top-style: solid;
+border-top-color: black;
+border-top-width: 10px;
 }
+
+
+
+
