@@ -27,7 +27,7 @@ display: block;
 }
 
 .navi { padding-top: 60px;
-border-style: solid;
+border-top-style: solid;
 border-width: thin;
 border-top: black 5px;
 border-bottom-style: hidden;
