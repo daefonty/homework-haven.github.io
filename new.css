@@ -411,7 +411,7 @@ text-align: center;
 line-height: 30px;
 }
 
-.border1{ border-width: thin;
+.topnav1 .border1{ border-width: thin;
 border-top: black 5px;
  border-top-style: solid;
  border-bottom-style: hidden;
