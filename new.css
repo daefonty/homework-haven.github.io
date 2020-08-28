@@ -402,12 +402,6 @@ margin: 0px;
 opacity: .8;
 position: relative;
 display: block;
- border-width: thin;
-border-top: black 5px;
- border-top-style: solid;
- border-bottom-style: hidden;
-border-right-style: hidden;
-border-left-style: hidden;
  
 }
 
@@ -415,4 +409,12 @@ border-left-style: hidden;
 position: relative;
 text-align: center;
 line-height: 30px;
+}
+
+.border1{ border-width: thin;
+border-top: black 5px;
+ border-top-style: solid;
+ border-bottom-style: hidden;
+border-right-style: hidden;
+border-left-style: hidden;
 }
