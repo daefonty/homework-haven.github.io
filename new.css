@@ -412,7 +412,13 @@ line-height: 30px;
 }
 
 
-.topnav1 li a { border-width: medium;
+.topnav1 { border-width: medium;
  border-style: solid;
 border:black 20px;
 border-radius: 8px;}
+
+.navi { border-width: medium;
+ border-style: solid;
+border:black 20px;
+border-radius: 8px;
+}
