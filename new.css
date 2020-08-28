@@ -411,8 +411,8 @@ text-align: center;
 line-height: 30px;
 }
 
-.navi .topnav1 { border-width: medium;
 
+.topnav1 li a { border-width: medium;
  border-style: solid;
-border: black 20px;
-}
+border:black 20px;
+border-radius: 8px;}
