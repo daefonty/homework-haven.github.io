@@ -1,0 +1,300 @@
+
+
+body { background-color: #EBDEF0;}
+
+
+.logo{ width: 25%;
+  height: 25%;
+  padding-left: 5px;
+  float:left;
+  padding-top: 10px;
+  padding-bottom: 200px;
+}
+.app{ padding-top: 50px;
+font-size: 25px;
+font-family: monospace;
+text-align: left;
+text-decoration: underline;
+color: black;
+}
+
+.topics {
+font-size: 20px;
+font-family: monospace;
+text-align: left;
+text-decoration: none;
+color: #3498DB;}
+
+.cover {font-size: 18px;
+font-family: monospace;
+text-align: left;
+text-decoration: none;
+color:#3BC755  ;}
+
+.photomath  {font-size: 14px;
+font-family: monospace;
+text-align: left;
+text-decoration: none;
+color:#CD6155 ;}
+
+.pm{display: inline-block;
+background-color: #58D68D;
+font-size: 15px;
+border : none;
+color: black;
+height: 25px;
+text-align: center;
+margin: 30px;
+}
+
+div { display: flex;
+justify-content: center;
+align-items: center;}
+
+.desmos {font-size: 14px;
+font-family: monospace;
+text-align: left;
+text-decoration: none;
+color:#1D8348;}
+
+.imath {font-size: 14px;
+font-family: monospace;
+text-align: left;
+text-decoration: none;
+color:#3498DB;}
+
+
+.logo1 { width: 10%;
+  height: 10%;
+  padding-left: 90px;
+  float:left;
+  padding-top: 10px;
+  padding-bottom: 200px;
+  padding-right: 60px;
+}
+.Clevcalc{font-size: 14px;
+font-family: monospace;
+text-align: left;
+text-decoration: none;
+color:  #D35400 ;}
+
+.logo2 { width: 9%;
+  height: 9%;
+  padding-left: 60px;
+  float:left;
+  padding-top: 55px;
+  padding-bottom: 230px;
+  padding-right: 60px;
+}
+
+.lit {font-size: 14px;
+font-family: monospace;
+text-align: left;
+text-decoration: none;
+color:#05B6B3  ;}
+
+.dif{font-size: 14px;
+font-family: monospace;
+text-align: left;
+text-decoration: none;
+color:  #3498DB  ;
+text-decoration: underline;}
+
+
+.X{font-size: 14px;
+font-family: monospace;
+text-align: left;
+text-decoration: none;
+color: #D35400;}
+
+.G{font-size: 14px;
+font-family: monospace;
+text-align: left;
+text-decoration: none;
+color: grey  ;}
+
+.Mer {font-size: 14px;
+font-family: monospace;
+text-align: left;
+text-decoration: none;
+color:#A93226 ;}
+
+
+.PT{font-size: 14px;
+font-family: monospace;
+text-align: left;
+text-decoration: none;
+color:black;}
+
+.Equate {font-size: 14px;
+font-family: monospace;
+text-align: left;
+text-decoration: none;
+color:#F27105 ;}
+
+.mel {font-size: 14px;
+font-family: monospace;
+text-align: left;
+text-decoration: none;
+color: #E59866  ;}
+
+.CH{font-size: 14px;
+font-family: monospace;
+text-align: left;
+text-decoration: none;
+color: #8E44AD ;}
+
+.Cr{font-size: 14px;
+font-family: monospace;
+text-align: left;
+text-decoration: none;
+color: #F49723;}
+
+.hba{font-size: 14px;
+font-family: monospace;
+text-align: left;
+text-decoration: none;
+color: #2471A3;}
+
+.CB {font-size: 14px;
+font-family: monospace;
+text-align: left;
+text-decoration: none;
+color:#263BD7  ;}
+
+.FBQ {font-size: 14px;
+font-family: monospace;
+text-align: left;
+text-decoration: none;
+color:#82A715  ;}
+
+.BR {font-size: 14px;
+font-family: monospace;
+text-align: left;
+text-decoration: none;
+color:#EC7894 ;}
+
+.PW  {font-size: 14px;
+font-family: monospace;
+text-align: left;
+text-decoration: none;
+color:#F03C7A  ;}
+
+.PP{font-size: 14px;
+font-family: monospace;
+text-align: left;
+text-decoration: none;
+color:#1E8449 ;}
+
+.PD {font-size: 14px;
+font-family: monospace;
+text-align: left;
+text-decoration: none;
+color:#2269C7 ;}
+
+.Pt {font-size: 14px;
+font-family: monospace;
+text-align: left;
+text-decoration: none;
+color:black ;}
+
+.Sg {font-size: 14px;
+font-family: monospace;
+text-align: left;
+text-decoration: none;
+color:#34495E  ;}
+
+.GOW {font-size: 14px;
+font-family: monospace;
+text-align: left;
+text-decoration: none;
+color:#0EA972   ;}
+
+.cow {font-size: 14px;
+font-family: monospace;
+text-align: left;
+text-decoration: none;
+color:#E6050D    ;}
+
+.PG {font-size: 14px;
+font-family: monospace;
+text-align: left;
+text-decoration: none;
+color:black  ;}
+
+.hs {font-size: 14px;
+font-family: monospace;
+text-align: left;
+text-decoration: none;
+color:#D35400  ;}
+
+.HG  {font-size: 14px;
+font-family: monospace;
+text-align: left;
+text-decoration: none;
+color:#2C3E50 ;}
+
+.He  {font-size: 14px;
+font-family: monospace;
+text-align: left;
+text-decoration: none;
+color: #17A589;}
+
+.duo  {font-size: 14px;
+font-family: monospace;
+text-align: left;
+text-decoration: none;
+color: black ;}
+
+.span {font-size: 14px;
+font-family: monospace;
+text-align: left;
+text-decoration: none;
+color:#2E86C1 ;}
+
+.tran {font-size: 14px;
+font-family: monospace;
+text-align: left;
+text-decoration: none;
+color:#1A6BD8  ;}
+
+.mem {font-size: 14px;
+font-family: monospace;
+text-align: left;
+text-decoration: none;
+color:#D4AC0D  ;}
+
+.khan {font-size: 14px;
+font-family: monospace;
+text-align: left;
+text-decoration: none;
+color:#48C9B0 ;}
+
+.soc {font-size: 14px;
+font-family: monospace;
+text-align: left;
+text-decoration: none;
+color: #840DD4  ;}
+
+.cc {font-size: 14px;
+font-family: monospace;
+text-align: left;
+text-decoration: none;
+color:#CB4335 ;}
+
+ul {list-style-type:  disc;}
+
+.CXC {font-size: 14px;
+font-family: monospace;
+text-align: left;
+text-decoration: none;
+color:#2471A3 ;
+}
+
+.logo3{ width: 9%;
+  height: 9%;
+float:left;
+  padding-top: 55px;
+  padding-bottom: 20px;
+  padding-right:700px;
+}
