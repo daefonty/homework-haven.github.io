@@ -411,9 +411,8 @@ text-align: center;
 line-height: 30px;
 }
 
-.navi .topnav1 li { border-width: thin;
+.navi .topnav1 { border-width: medium;
 
  border-style: solid;
 border: black 20px;
-
 }
