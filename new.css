@@ -27,12 +27,7 @@ display: block;
 }
 
 .navi { padding-top: 60px;
-border-top-style: solid;
-border-width: thin;
-border-top: black 5px;
-border-bottom-style: hidden;
-border-right-style: hidden;
-border-left-style: hidden;}
+}
 
 .topnav li { float:left;
 position: relative;
@@ -407,6 +402,13 @@ margin: 0px;
 opacity: .8;
 position: relative;
 display: block;
+ border-width: thin;
+border-top: black 5px;
+ border-top-style: solid;
+ border-bottom-style: hidden;
+border-right-style: hidden;
+border-left-style: hidden;
+ 
 }
 
 .topnav1 li { float:left;
