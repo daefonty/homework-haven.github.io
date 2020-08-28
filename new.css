@@ -411,10 +411,8 @@ text-align: center;
 line-height: 30px;
 }
 
-.topnav1 .border1{ border-width: thin;
-border-top: black 5px;
+.topnav1 .border1 li { border-width: thin;
+border-top: 000402 5px;
  border-top-style: solid;
- border-bottom-style: hidden;
-border-right-style: hidden;
-border-left-style: hidden;
+
 }
